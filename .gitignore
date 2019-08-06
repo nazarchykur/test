@@ -1,0 +1,13 @@
+
+# Created by https://www.gitignore.io/api/intellij+iml
+# Edit at https://www.gitignore.io/?templates=intellij+iml
+
+# auto-import.
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+# *.iml
+# *.ipr
+
+out/
+*/.idea/*
