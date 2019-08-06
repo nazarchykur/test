@@ -37,8 +37,8 @@ Create an array of 10 integers. Display
             if (i1 < 0) {
                 amountOfNegativeNumbers += 1;
             }
-
         }
+
         System.out.println("amount Of Positive Numbers is : " + amountOfPositiveNumbers);
         System.out.println("amount Of Negative Numbers is : " + amountOfNegativeNumbers);
         if (amountOfPositiveNumbers > amountOfNegativeNumbers)
