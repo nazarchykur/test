@@ -1,4 +1,4 @@
-package com.company.h3;
+package com.company.homework3;
 
 import java.util.Arrays;
 
